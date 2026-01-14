@@ -49,7 +49,6 @@ Data cleaning and preprocessing were performed to handle missing values and ensu
 ---
 
 ## Tools
--
 - Python libraries for EDA: pandas, NumPy, matplotlib, seaborn
 - Jupyter Notebook for exploratory analysis
 - SMOTE for class balancing
